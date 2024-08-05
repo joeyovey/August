@@ -7,3 +7,4 @@
 05
 Worked on my new Resume and portfolio website
 Worked ReactJS calculator
+Created Netlify account
