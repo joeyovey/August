@@ -12,3 +12,4 @@ Created Netlify account
 
 06
 Presentation on Git and Github
+Worked on my portofolio website
