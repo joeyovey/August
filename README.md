@@ -14,3 +14,6 @@ Created Netlify account
 Presentation on Git and Github
 Worked on my portofolio website
 Researched and worked on ReactJs Calculator project
+
+07
+Pushed ReactJs calutor to the github
